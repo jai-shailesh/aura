@@ -87,9 +87,11 @@ const Main = () => {
                                 <img onClick={() => onSent()} src={assets.send_icon} />
                             ) : null}
                         </div>
+                        
                     </div>
+                    <p className='bottom-info'>{quote}</p>
+
                 </div>
-                <p className='bottom-info'>{quote}</p>
             </div>
         </div>
     );

@@ -94,12 +94,13 @@ return (
                     null
                     }
                     </div>
+                
+        </div>
                 </div>
                 <p className='bottom-info'>
                 {handleQuoteChange()}
                 </p>
             </div>
-        </div>
      
     </div>
   )

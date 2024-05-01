@@ -98,7 +98,7 @@ return (
         </div>
                 </div>
                 <p className='bottom-info'>
-                {handleQuoteChange()}
+{/*                 {handleQuoteChange()} */}
                 </p>
             </div>
      

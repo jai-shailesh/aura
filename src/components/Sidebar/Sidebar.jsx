@@ -46,7 +46,7 @@ const Sidebar = () => {
       <div className="bottom">
         <div className="bottom-item recent-entry">
             <img src={assets.question_icon} alt="" />
-            {extended? <p>Help</p> :null }
+            {extended? <p>About</p> :null }
 
         </div>
         <div className="bottom-item recent-entry">

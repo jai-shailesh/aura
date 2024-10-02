@@ -147,7 +147,7 @@ For any questions or suggestions, feel free to reach out:
 
 - **Jai Shailesh**
 - **Email:** [jaishaileshm@gmail.com](mailto:jaishaileshm@gmail.com)
-- **LinkedIn:** [https://github.com/jai-shailesh](https://github.com/jai-shailesh)
+- **LinkedIn:** [https://linkedin.com/jai-shailesh-m](https://www.linkedin.com/in/jai-shailesh-m)
 - **GitHub:** [https://github.com/jai-shailesh](https://github.com/jai-shailesh)
 
 ---
